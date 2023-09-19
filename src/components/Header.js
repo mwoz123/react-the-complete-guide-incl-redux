@@ -1,5 +1,5 @@
 
-import keyConceptsImage from './assets/images/key-concepts.png';
+import keyConceptsImage from '../assets/images/key-concepts.png';
 export default function Header() {
 
 	return (<header>
